@@ -10,7 +10,7 @@
 "birthday1": {"name": "荣玉浩", "birthday": "2001-03-06"},
 # 生日2
 "birthday2": {"name": "刘巧巧", "birthday": "2000-02-08"},
-"love_date": "2020-10-25",
+"love_date": "2019-10-25",
 "note_ch": "",
 "note_en": ""
 }
